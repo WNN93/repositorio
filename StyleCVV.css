@@ -1,0 +1,43 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(fondo-geometrico.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.skills{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+}
+
+.profile-description{
+    width: 800px;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 18px;
+
+}
+
+.Expl{
+    font-size: 18px;
+}
+
+.Hbb{
+    font-size: 18px;
+}
+
+.image-profile{
+    background-position-x: center;
+}
+
